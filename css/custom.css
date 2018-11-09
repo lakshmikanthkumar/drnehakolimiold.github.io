@@ -110,7 +110,7 @@ a.navbar-brand.js-scroll-trigger{
 
 .banner {
   position: relative;
-  width: 100%;
+  width: 100vw;
   height: auto;
   min-height: 100vh;
   background: url("../images/Banner.jpg");
